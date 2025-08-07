@@ -1,6 +1,6 @@
 # C Mini Projects
 
-This repo is just the collection of C programs I made while learning C.
+This repository contains a collection of C programs created while learning the C programming language.
 
 ## Current Projects
 
