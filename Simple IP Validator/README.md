@@ -5,4 +5,4 @@ A simple CLI tool that validates IPv4 addresses by ensuring:
 - Each octet is between 0 and 255
 - No invalid characters or empty segments are allowed
 
-![Program Output](images/output.png)
+![Program Output](images/ip_val.png)
