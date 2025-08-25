@@ -5,5 +5,5 @@ This repository contains a collection of C programs created while learning the C
 ## Current Projects
 
 [0] IPv4 Address Validator  
-[1] Character Frequency Counter 
+[1] Character Frequency Counter  
 [2] Simple Caesar Cipher 
